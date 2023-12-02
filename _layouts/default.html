@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" >
+    <head>
+        <meta charset="utf-8">
+        <title>
+            {% if post.title %}{{ post.title }}
+                •
+            {% else %}
+            {% endif %}{{ site.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet prefetch" href="https://fonts.googleapis.com/css?family=Cutive+Mono">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+    </head>
+    <body>
+        <main class="container">
+            <div class="row">
+              <div class="col-2">
+                <h1>{{ site.title }}</h1>
+                <p class="lead">
+                    <br/>{{ site.desc }}
+                </p>
+                {{ content }}
+                {% include buttons.html %}
+              </div>
+              {% include sidebar.html %}
+            </div>
+          </main>
+    </body>
+</html>
