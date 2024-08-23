@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Resume
+# RESUME
 ## EDUCATION:
 ### New York University, New York, NY 
 **Anticipated Graduation: May 2026**
@@ -13,7 +13,7 @@ layout: default
 
 ## EXPERIENCE:
 
-### OASIS, Berkley, California      
+### OASIS, Berkley, CA
 **Operations Intern - 2024-Current**
 * Organize and facilitate the English coaching program for the 2024-2025 school year
 * Translate research, publications, and presentations between French and English
@@ -21,7 +21,7 @@ layout: default
 * Format, collect, and edit information regarding administrative work, including budget reports, conferences, and key objectives
 
 
-### OASIS, Berkley, California      
+### OASIS, Berkley, CA
 **English Coach - Spring 2024**
 * Facilitated weekly conversations with women in West Africa to strengthen their English language comprehension/production.
 * Provided feedback to facilitate independent learning between sessions
@@ -53,10 +53,13 @@ layout: default
 
 
 ## ADDITIONAL SKILLS
+
 Computer Skills
 : Proficiency in R; Experience using Salesforce; Experience using Monday.com; Proficiency in both the Microsoft and Google suites
+
 Additional Languages
 : American Sign Language (Fluent), French (Intermediate) 
+
 Leadership
 : Experience Managing groups of people in educational and professional settings
 
