@@ -9,12 +9,6 @@ layout: default
 * Awards/Accolades: Dean's list (22-23)
 
 
-### Denton High School, Denton, TX 
-**Graduated May 2022 with International Baccalaureate Diploma**
-* GPA: 5.0
-* Valedictorian
-
-
 ## EXPERIENCE:
 ### Jumpstart, New York, NY        
 **Team Leader - 2023-Current**
