@@ -22,7 +22,7 @@ title: Kaiah Bush
 email: kaiahmbush@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A site all about Kaiah!
-baseurl: "/kaiahbush" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 image: https://i.pinimg.com/564x/00/27/44/0027441433e5e229196101c45f7ecb39.jpg
 about: The bestest and most amazing NYU student in all the lands.
